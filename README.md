@@ -15,7 +15,7 @@ Aspiring Computer Engineer, with a Passion for | Programming 👨‍💻 | Probl
 <br>
 <p align="right">
   <a href="https://github.com/BhaveshWadhia/BhaveshWadhia/" >
-    <img align="right" alt="Coder GIF" height=250 width=440 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+    <img align="right" alt="Coder GIF" height=270 width=440 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
   </a>
 </p>
 
